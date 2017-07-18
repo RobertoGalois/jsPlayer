@@ -1,0 +1,2 @@
+# jsPlayer
+Rudimentary js player
